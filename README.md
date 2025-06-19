@@ -1,7 +1,7 @@
-## Pathtracer README
+## CS2240-Pathtracer README
 
 
-### Output Comparison
+### Final Output Images that my Pathtracing Code Produced!
 
 | `.ini` File To Produce Output | Expected Output | My Code's Output |
 | :---------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: |
