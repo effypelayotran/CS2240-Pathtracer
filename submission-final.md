@@ -1,4 +1,4 @@
-## Path - Final Output Photos
+## Pathtracer README
 
 
 ### Output Comparison
