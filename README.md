@@ -1,4 +1,4 @@
-## CS2240-Pathtracer README
+## Pathtracer README
 
 
 ### Final Output Images that my Pathtracing Code Produced!
